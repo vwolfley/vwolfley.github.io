@@ -1,0 +1,22 @@
+{
+  "name": "GitHub-Site",
+  "version": "0.1.0",
+  "author": "Vern Wolfley",
+  "twitter": "@vernwolfley",
+  "url": "http://vwolfley.github.io/",
+  "private": true,
+
+  "devDependencies": {
+    "grunt":                "~0.4.4",
+    "grunt-contrib-cssmin":     "*",
+    "grunt-contrib-csslint":    "*",
+    "grunt-cssc":               "*",
+    "grunt-contrib-jshint":     "*",
+    "grunt-contrib-uglify":     "*",
+    "grunt-contrib-watch":      "*",
+    "grunt-htmlhint":           "*",
+    "matchdep":                 "*",
+    "jshint-stylish-ex":        "*",
+    "grunt-contrib-concat":     "*"
+  }
+}
