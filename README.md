@@ -10,7 +10,7 @@ A portal that shows my repositories I've created on GitHub
 
 ### Version
 
-### `0.1.0 - 05/02/2014`
+### `0.2.0 - 05/03/2014`
 
 ### Keywords
 

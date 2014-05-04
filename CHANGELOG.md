@@ -4,6 +4,10 @@
 
 Major/Minor/Patch 0.0.0
 
+### Version 0.2.0 (05/03/2014)
+
+* added meta tags to index.html
+* added new site Geography Memory Game to site
 
 ### Version 0.1.0 (05/02/2014)
 
