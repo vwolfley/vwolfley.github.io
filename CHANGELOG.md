@@ -2,7 +2,14 @@
 
 [![Semver](http://img.shields.io/SemVer/2.0.0.png)](http://semver.org/spec/v2.0.0.html)
 
-Major/Minor/Patch 0.0.0
+`Major/Minor/Patch 0.0.0`
+
+### Version 0.3.0 (05/05/2014)
+
+* combined cover.css into main.css
+* took out ArcGIS Map
+* added npm node_modules
+* changed masthead links style
 
 ### Version 0.2.0 (05/03/2014)
 

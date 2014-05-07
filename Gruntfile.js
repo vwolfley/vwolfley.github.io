@@ -59,7 +59,7 @@ module.exports = function(grunt){
         },
 
         jshint: {
-            files: ["js/config.js", "js/main.js"],
+            files: ["js/main.js"],
                 options: {
                     // strict: true,
                     sub: true,
@@ -117,7 +117,7 @@ module.exports = function(grunt){
 
         watch: {
           scripts: {
-            files: ["js/main.js", "js/config.js", "Gruntfile.js"],
+            files: ["js/main.js", "Gruntfile.js"],
             tasks: ["jshint"],
             options: {
               spawn: false,

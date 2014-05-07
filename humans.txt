@@ -21,8 +21,8 @@
 # SITE
     Site Name: GitHub Site
     Site URL: http://vwolfley.github.io/
-    Version: 0.2.0
-    Last updated: 05/03/2014
+    Version: 0.3.0
+    Last updated: 05/05/2014
     Language: English
     Doctype: HTML5
     IDE: Sublime Text
