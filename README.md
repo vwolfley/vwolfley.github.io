@@ -6,11 +6,11 @@
 
 My GitHub Homepage
 
-A portal that shows my repositories I've created on GitHub
+A portal that shows my repositories I've created on GitHub.
 
 ### Version
 
-### `0.3.0 - 05/05/2014`
+#### `0.3.0 - 05/05/2014`
 
 ### Keywords
 
@@ -23,4 +23,4 @@ A portal that shows my repositories I've created on GitHub
 
 A detailed list of the changes and fixes in each version update can be found in the CHANGELOG.md.
 
-* [Change Log] (CHANGELOG.md)
+* [Changelog] (CHANGELOG.md)
