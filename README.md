@@ -17,10 +17,10 @@ A portal that shows my repositories I've created on GitHub.
 `GitHub` `Maps` `ESRI` `MAG` `#MAGmaps`
 
 ### Site URL's
-* [Site] (http://vwolfley.github.io/)
+* [Site](http://vwolfley.github.io/)
 
 ### Documentation
 
 A detailed list of the changes and fixes in each version update can be found in the CHANGELOG.md.
 
-* [Changelog] (CHANGELOG.md)
+* [Changelog](CHANGELOG.md)
